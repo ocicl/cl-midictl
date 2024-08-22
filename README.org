@@ -1,0 +1,10 @@
+* cl-midictl
+
+cl-midictl is an abstraction layer to implement the handling of
+midi-controllers and their state in real-time audio.
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/ormf/cl-midictl.git |
+| commit  | 2d2c065                                    |
+| systems | cl-midictl                                 |
+|---------+--------------------------------------------|
